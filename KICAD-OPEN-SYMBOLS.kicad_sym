@@ -27005,15 +27005,15 @@
         (name "VBAT" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 3.81 -69.85 90) (length 5.08) hide
+      (pin no_connect line (at 3.175 -69.85 90) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "40" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 3.81 -69.85 90) (length 5.08) hide
+      (pin no_connect line (at 5.08 -69.85 90) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "41" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 3.81 -69.85 90) (length 5.08) hide
+      (pin no_connect line (at 6.985 -69.85 90) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "42" (effects (font (size 1.27 1.27))))
       )
@@ -27025,7 +27025,7 @@
         (name "NRST" (effects (font (size 1.27 1.27))))
         (number "44" (effects (font (size 1.27 1.27))))
       )
-      (pin no_connect line (at 3.81 -69.85 90) (length 5.08) hide
+      (pin no_connect line (at 8.89 -69.85 90) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "45" (effects (font (size 1.27 1.27))))
       )
