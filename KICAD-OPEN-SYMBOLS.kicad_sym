@@ -43052,7 +43052,7 @@
 			(pin input line
 				(at -12.7 3.175 0)
 				(length 2.54)
-				(name "PC03"
+				(name "PC02"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43070,7 +43070,7 @@
 			(pin input line
 				(at -12.7 1.905 0)
 				(length 2.54)
-				(name "PC04"
+				(name "PC03"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43088,7 +43088,7 @@
 			(pin input line
 				(at -12.7 0.635 0)
 				(length 2.54)
-				(name "PC05"
+				(name "PC04"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43106,7 +43106,7 @@
 			(pin input line
 				(at -12.7 -0.635 0)
 				(length 2.54)
-				(name "PC06"
+				(name "PC05"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43124,7 +43124,7 @@
 			(pin input line
 				(at -12.7 -1.905 0)
 				(length 2.54)
-				(name "PC07"
+				(name "PC06"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43142,7 +43142,7 @@
 			(pin input line
 				(at -12.7 -3.175 0)
 				(length 2.54)
-				(name "PC08"
+				(name "PC07"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43160,7 +43160,7 @@
 			(pin input line
 				(at -12.7 -4.445 0)
 				(length 2.54)
-				(name "PC09"
+				(name "PC08"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43176,7 +43176,25 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -10.795 0)
+				(at -12.7 -5.715 0)
+				(length 2.54)
+				(name "PC09"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 -12.065 0)
 				(length 2.54)
 				(name "PD02"
 					(effects
@@ -43194,7 +43212,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -12.065 0)
+				(at -12.7 -13.335 0)
 				(length 2.54)
 				(name "PD03"
 					(effects
@@ -43212,7 +43230,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -13.335 0)
+				(at -12.7 -14.605 0)
 				(length 2.54)
 				(name "PD04"
 					(effects
@@ -43230,7 +43248,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -14.605 0)
+				(at -12.7 -15.875 0)
 				(length 2.54)
 				(name "PD05"
 					(effects
@@ -43248,7 +43266,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -20.955 0)
+				(at -12.7 -22.225 0)
 				(length 2.54)
 				(name "PD00/LFXTAL_O"
 					(effects
@@ -43266,7 +43284,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -22.225 0)
+				(at -12.7 -23.495 0)
 				(length 2.54)
 				(name "PD01/LFXTAL_I"
 					(effects
@@ -43293,7 +43311,7 @@
 						)
 					)
 				)
-				(number "10"
+				(number "11"
 					(effects
 						(font
 							(size 0.762 0.762)
@@ -43311,7 +43329,7 @@
 						)
 					)
 				)
-				(number "11"
+				(number "12"
 					(effects
 						(font
 							(size 0.762 0.762)
